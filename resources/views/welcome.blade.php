@@ -18,8 +18,8 @@
             }
 
             html, body {
-                background-color: #fff;
-                color: #636b6f;
+                background-color: #47a253;
+                color: #eeeeee;
                 font-family: 'majestic', Helvetica, sans-serif;
                 font-weight: 100;
                 height: 100vh;
