@@ -11,6 +11,8 @@ storage/
 .env.*.php
 .env.php
 .env
+.idea/
+.idea
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
@@ -65,3 +67,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.idea/blade.xml
