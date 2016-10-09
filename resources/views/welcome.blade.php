@@ -19,7 +19,7 @@
 
             html, body {
                 background-color: #47a253;
-                color: #eeeeee;
+                color: #ffffff;
                 font-family: 'majestic', Helvetica, sans-serif;
                 font-weight: 100;
                 height: 100vh;
