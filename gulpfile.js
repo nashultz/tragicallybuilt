@@ -13,7 +13,18 @@ require('laravel-elixir-vue-2');
  |
  */
 
+elixir.config.publicPath = 'public/themes/default/assets';
+elixir.config.resourcePath = 'resources/assets';
+
+elixir.config.css.sass.pluginOptions.includePaths = [
+    'node_modules/bootstrap-sass/assets/stylesheets',
+    'node_modules/font-awesome/scss'
+];
+
 elixir(mix => {
     mix.sass('app.scss')
-       .webpack('app.js');
+        .webpack('app.js')
+        .copy('node_modules/sweetalert/dist/sweetalert.min.js', 'public/js/sweetalert.min.js')
+        .copy('node_modules/sweetalert/dist/sweetalert.css', 'public/css/sweetalert.css')
+        .copy('node_modules/font-awesome/fonts', elixir.config.publicPath+'/fonts');
 });
