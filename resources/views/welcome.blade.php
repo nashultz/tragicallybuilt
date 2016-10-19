@@ -24,7 +24,7 @@
             }
 
             .full-height {
-                height: 80vh;
+                height: 100vh;
             }
 
             .flex-center {
@@ -53,6 +53,11 @@
 
             .title {
                 font-size: 54px;
+            }
+
+            .title img {
+                height: 400px;
+                width: auto;
             }
 
             .links > a {
