@@ -74,7 +74,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="../../public/themes/default/assets/img/TragicallyBuiltLogo.png" /><br><small>Coming Soon!</small>
+                    <img src="../../themes/default/assets/img/TragicallyBuiltLogo.png" /><br><small>Coming Soon!</small>
                 </div>
             </div>
         </div>
