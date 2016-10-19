@@ -12,10 +12,7 @@
 
         <!-- Styles -->
         <style>
-            @font-face {
-                font-family: majestic;
-                src: url(MajesticInlineGrunge.ttf);
-            }
+
 
             html, body {
                 background-color: #47a253;
@@ -77,7 +74,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    Tragically Built Productions<br><small>Coming Soon!</small>
+                    <img src="../../public/themes/default/assets/img/TragicallyBuiltLogo.png" /><br><small>Coming Soon!</small>
                 </div>
             </div>
         </div>
