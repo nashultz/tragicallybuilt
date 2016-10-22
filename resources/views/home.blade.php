@@ -13,12 +13,6 @@
         <link href="../../themes/default/assets/css/app.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <div class="flex-center position-ref full-height">
-            <div class="content">
-                <div class="title m-b-md">
-                    <img src="../../themes/default/assets/img/TragicallyBuiltLogo.png" /><br><small>Coming Soon!</small>
-                </div>
-            </div>
-        </div>
+        Tragically Built Productions....coming soon!
     </body>
 </html>
