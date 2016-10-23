@@ -6661,4 +6661,8 @@ body {
     padding-right: 0;
     padding-left: 0; } }
 
+.jumbotron {
+  background: #eee;
+  margin-top: 20px; }
+
 /*# sourceMappingURL=app.css.map */
