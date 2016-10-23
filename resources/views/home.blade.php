@@ -31,6 +31,13 @@
                 <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
             </ul>
         </nav>
+        <div class="jumbotron">
+            <h1>Holiday's Revenge</h1>
+            <p>Coming Soon!</p>
+            <p>
+                <a class="btn btn-lg btn-primary" href="#" role="button">Learn More &raquo;</a>
+            </p>
+        </div>
         <script src="../../themes/default/assets/js/app.js"></script>
         <script src="../../themes/default/assets/js/moment.js"></script>
     </body>
