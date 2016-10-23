@@ -33,7 +33,7 @@
         </nav>
         <div class="jumbotron">
             <h1>Holiday's Revenge</h1>
-            <p>Coming Soon!</p>
+            <p>In Development!</p>
             <p>
                 <a class="btn btn-lg btn-primary" href="#" role="button">Learn More &raquo;</a>
             </p>
