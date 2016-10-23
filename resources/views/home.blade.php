@@ -17,7 +17,9 @@
         <!-- The justified navigation menu is meant for single line per list item.
              Multiple lines will require custom code not provided by Bootstrap. -->
         <div class="masthead">
-            <h3 class="text-muted col-xs-12"><img src="../../themes/default/assets/img/TragicallyBuiltLogo.png" class="img-thumbnail col-xs-3"></h3>
+            <h3 class="text-muted col-xs-12">
+                <img class="col-xs-3" src="../../themes/default/assets/img/TragicallyBuiltLogo.png">
+            </h3>
         </div><div class="clearfix"></div>
         <nav>
             <ul class="nav nav-justified">
