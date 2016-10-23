@@ -18,17 +18,17 @@
              Multiple lines will require custom code not provided by Bootstrap. -->
         <div class="masthead">
             <h3 class="text-muted col-xs-12"><img src="../../themes/default/assets/img/TragicallyBuiltLogo.png" class="img-thumbnail col-xs-3"></h3>
-            <nav>
-                <ul class="nav nav-justified">
-                    <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Services</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Downloads</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
-                </ul>
-            </nav>
         </div>
+        <nav>
+            <ul class="nav nav-justified">
+                <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Projects</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Services</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Downloads</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+            </ul>
+        </nav>
         <script src="../../themes/default/assets/js/app.js"></script>
         <script src="../../themes/default/assets/js/moment.js"></script>
     </body>
