@@ -6,6 +6,9 @@
  */
 
 require('./bootstrap');
+require('./datepicker');
+require('./simplemde');
+require('./sweetalert.min');
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
