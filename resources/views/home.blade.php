@@ -18,7 +18,7 @@
              Multiple lines will require custom code not provided by Bootstrap. -->
         <div class="masthead">
             <h3 class="text-muted col-xs-12">
-                <img class="col-xs-3" src="../../themes/default/assets/img/TragicallyBuiltLogo.png">
+                <img class="col-xs-3" src="../../themes/default/assets/img/TragicallyBuiltLogo2.png">
             </h3>
         </div><div class="clearfix"></div>
         <nav>
