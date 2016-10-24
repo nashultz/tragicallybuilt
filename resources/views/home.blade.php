@@ -33,7 +33,7 @@
         </nav>
         <div class="jumbotron">
             <h1>
-                <img class="col-xs-6 col-xs-offset-3" src="../../themes/default/assets/img/holidaysrevengelogo.png">
+                <img class="col-xs-6 col-xs-offset-3" src="../../themes/default/assets/img/holidaysrevengelogo.png"><div class="clearfix"></div>
             </h1>
             <p>In Development!</p>
             <p>
