@@ -32,7 +32,9 @@
             </ul>
         </nav>
         <div class="jumbotron">
-            <h1>Holiday's Revenge</h1>
+            <h1>
+                <img class="col-xs-6 col-xs-offset-3" src="../../themes/default/assets/img/holidaysrevengelogo.png">
+            </h1>
             <p>In Development!</p>
             <p>
                 <a class="btn btn-lg btn-primary" href="#" role="button">Learn More &raquo;</a>
